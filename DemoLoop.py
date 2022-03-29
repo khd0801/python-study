@@ -42,7 +42,7 @@ for i in range(10):
     print(i)
 
 #반복문에서 필터링하는 함수
-lst = [20,25,30]]
+lst = [20,25,30]
 
 #필터링하는 함수 정의
 def getBiggerThan20(i):
