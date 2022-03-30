@@ -48,3 +48,7 @@ result = f.readlines()
 print(result)
 
 f.close()
+
+#with 구문을 사용(블럭 안에서만 리소스를 사용)
+with open("c:\\work\\demo.txt", "rt", encoding="utf-8") as f:
+    print(f.read())
