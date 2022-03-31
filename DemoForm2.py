@@ -31,6 +31,7 @@ class DemoForm(QMainWindow, form_class):
             f.write(title + "\n")
 
         self.label.setText("네이버 웹툰 리스트")
+        f.close()
     def secondClick(self):
         self.label.setText("두번쨰 버튼")
     def thirdClick(self):
