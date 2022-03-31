@@ -29,3 +29,5 @@ for tag in soup.find_all("p"):
     content = content.replace("\n", "")
     content = content.replace("\t", "")
     print(content)
+
+
