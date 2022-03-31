@@ -18,3 +18,83 @@
 /webtoon/detail?titleId=20853&no=42&weekday=fri
 마음의 소리 41화 <교훈>
 /webtoon/detail?titleId=20853&no=41&weekday=fri
+마음의 소리 40화 <추석>
+/webtoon/detail?titleId=20853&no=40&weekday=fri
+마음의 소리 39화 <존심>
+/webtoon/detail?titleId=20853&no=39&weekday=fri
+마음의 소리 38화 <반성>
+/webtoon/detail?titleId=20853&no=38&weekday=fri
+마음의 소리 37화 <수사>
+/webtoon/detail?titleId=20853&no=37&weekday=fri
+마음의 소리 36화 <고민>
+/webtoon/detail?titleId=20853&no=36&weekday=fri
+마음의 소리 35화 <인격>
+/webtoon/detail?titleId=20853&no=35&weekday=fri
+마음의 소리 34화 <호감>
+/webtoon/detail?titleId=20853&no=34&weekday=fri
+마음의 소리 33화 <정보>
+/webtoon/detail?titleId=20853&no=33&weekday=fri
+마음의 소리 32화 <전역>
+/webtoon/detail?titleId=20853&no=32&weekday=fri
+마음의 소리 31화 <영웅>
+/webtoon/detail?titleId=20853&no=31&weekday=fri
+마음의 소리 30화 <유비>
+/webtoon/detail?titleId=20853&no=30&weekday=fri
+마음의 소리 29화 <여행>
+/webtoon/detail?titleId=20853&no=29&weekday=fri
+마음의 소리 28화 <느낌>
+/webtoon/detail?titleId=20853&no=28&weekday=fri
+마음의 소리 27화 <진심>
+/webtoon/detail?titleId=20853&no=27&weekday=fri
+마음의 소리 26화 <만화>
+/webtoon/detail?titleId=20853&no=26&weekday=fri
+마음의 소리 25화 <기대>
+/webtoon/detail?titleId=20853&no=25&weekday=fri
+마음의 소리 24화 <사연>
+/webtoon/detail?titleId=20853&no=24&weekday=fri
+마음의 소리 23화 <선행>
+/webtoon/detail?titleId=20853&no=23&weekday=fri
+마음의 소리 22화 <웰컴>
+/webtoon/detail?titleId=20853&no=22&weekday=fri
+마음의 소리 21화 <지옥>
+/webtoon/detail?titleId=20853&no=21&weekday=fri
+마음의 소리 20화 <초인>
+/webtoon/detail?titleId=20853&no=20&weekday=fri
+마음의 소리 19화 <광고>
+/webtoon/detail?titleId=20853&no=19&weekday=fri
+마음의 소리 18화 <마음>
+/webtoon/detail?titleId=20853&no=18&weekday=fri
+마음의 소리 17화 <방법>
+/webtoon/detail?titleId=20853&no=17&weekday=fri
+마음의 소리 16화 <가치>
+/webtoon/detail?titleId=20853&no=16&weekday=fri
+마음의 소리 15화 <행사>
+/webtoon/detail?titleId=20853&no=15&weekday=fri
+마음의 소리 14화 <얼굴>
+/webtoon/detail?titleId=20853&no=14&weekday=fri
+마음의 소리 13화 <온라인 외전>
+/webtoon/detail?titleId=20853&no=13&weekday=fri
+마음의 소리 12화 <규칙(완)>
+/webtoon/detail?titleId=20853&no=12&weekday=fri
+마음의 소리 11화 <규칙>
+/webtoon/detail?titleId=20853&no=11&weekday=fri
+마음의 소리 10화 <이유>
+/webtoon/detail?titleId=20853&no=10&weekday=fri
+마음의 소리 9화 <충고>
+/webtoon/detail?titleId=20853&no=9&weekday=fri
+마음의 소리 8화 <동화>
+/webtoon/detail?titleId=20853&no=8&weekday=fri
+마음의 소리 7화 <이름>
+/webtoon/detail?titleId=20853&no=7&weekday=fri
+마음의 소리 6화 <기억>
+/webtoon/detail?titleId=20853&no=6&weekday=fri
+마음의 소리 5화 <생존>
+/webtoon/detail?titleId=20853&no=5&weekday=fri
+마음의 소리 4화 <차이>
+/webtoon/detail?titleId=20853&no=4&weekday=fri
+마음의 소리 3화 <굴욕>
+/webtoon/detail?titleId=20853&no=3&weekday=fri
+마음의 소리 2화 <위협>
+/webtoon/detail?titleId=20853&no=2&weekday=fri
+마음의 소리 1화 <진실>
+/webtoon/detail?titleId=20853&no=1&weekday=fri
