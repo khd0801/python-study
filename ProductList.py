@@ -63,13 +63,17 @@ class Window(QMainWindow, form_class):
     def removeProduct(self):
         #삭제 파라메터 처리 
         self.id  = self.prodID.toPlainText()
-        cur.execute("delete from Products where id=?", self.id)
+        strSQL = "delete from Products where id=" + str(self.id)
+        cur.execute(strSQL)
         #리프레시
         self.getProduct() 
         #입력,수정,삭제 작업후에는 커밋을 한다. 
         con.commit()  
 
     def getProduct(self):
+        #검색 결과를 보여주기전에 기존 컨텐트를 삭제(헤더는 제외)
+        self.tableWidget.clearContents()
+
         cur.execute("select * from Products;") 
         #행숫자 카운트 
         row = 0 
